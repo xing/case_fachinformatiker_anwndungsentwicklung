@@ -31,6 +31,6 @@ The team would like "Devin" to not just say the current score but instead:
 2. If the score can be divided by 5, Devin should say "Buzz"
 3. Otherwise he will just say the score
 
-You can checkout the video [Case_Goal.mov](./Case_Goal.mov) to see how should the game look like.
+You can checkout the video [case_goal.mov](./case_goal.mov) to see how should the game look like.
 
 Can you please do those changes to the game! The creative team will appreciate this alot. :pray:
